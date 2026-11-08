@@ -1,0 +1,23 @@
+{
+  "name": "67",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroshijovem-dot/67.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiroshijovem-dot/67/issues"
+  },
+  "homepage": "https://github.com/hiroshijovem-dot/67#readme",
+  "dependencies": {
+    "three": "^0.170.0"
+  }
+}
